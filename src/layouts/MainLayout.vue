@@ -14,7 +14,7 @@
           >
             <q-tab name="innerMails" icon="home" />
             <q-tab name="innerAlarms" icon="search" />
-            <q-tab name="innerMovies" icon="add_box" />
+            <q-tab size="lg" name="innerMovies" icon="search" />
             <q-tab name="s" icon="favorite_border" />
             <q-tab name="d" icon="account_circle" />
           </q-tabs>
